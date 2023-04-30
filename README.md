@@ -13,3 +13,4 @@ Interfaces can only extend other interfaces.
 
 ## But what is difference between abstract class and interface?
 The Abstract class and Interface both are used to have abstraction. An abstract class contains an abstract keyword on the declaration whereas an Interface is a sketch that is used to implement a class.
+![image](https://user-images.githubusercontent.com/31170255/235371384-bb665f2b-e798-4a36-8388-06ff618d4325.png)
